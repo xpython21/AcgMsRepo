@@ -1,0 +1,9 @@
+{
+	"name": "AcgMsDataFactory",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3aeb95df-b176-4050-a83f-048fbc082844",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
